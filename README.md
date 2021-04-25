@@ -1,2 +1,0 @@
-# Chess Team Sorter
-"# chess" 
